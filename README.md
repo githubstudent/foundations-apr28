@@ -5,4 +5,4 @@ Repository for [Foundations class](http://training.github.com/kit/foundations)
 ## Instructors
 
 * [Joshua](http://github.com/jaw6)
-* Allen
+* [Allen](http://github.com/loranallensmith)
