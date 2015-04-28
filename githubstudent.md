@@ -1,3 +1,3 @@
 # GitHub Student
 
-* [github student](http://github.com/githubstudent)
+* [GitHub Student](http://github.com/githubstudent)
