@@ -4,5 +4,5 @@ Repository for [Foundations class](http://training.github.com/kit/foundations)
 
 ## Instructors
 
-* Joshua
+* [Joshua](http://github.com/jaw6)
 * Allen
